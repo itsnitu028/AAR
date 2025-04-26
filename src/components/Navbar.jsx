@@ -5,6 +5,8 @@ import Logout from "./Logout";
 import { useAuth } from "../context/AuthProvider";
 import logo from "../assets/logo.png";
 import { IoCartOutline } from "react-icons/io5";
+import { NavLink } from 'react-router-dom';
+
 function Navbar() {
   const [authUser, setAuthUser] = useAuth();
   const [theme, setTheme] = useState(
@@ -39,19 +41,20 @@ function Navbar() {
   }, []);
   const navItems = (
     <>
-      <li>
-        <a href="/">Home</a>
-      </li>
-      <li>
-        <a href="/tools">Category</a>
-      </li>
-      
-      <li>
-        <a href="/about">About Us</a>
-      </li>
-      <li>
-        <a href="/cart" ><IoCartOutline className="w-10 h-5" /></a>
-      </li>
+  <li>
+  <NavLink to="/" exact activeClassName="active">Home</NavLink>
+</li>
+<li>
+  <NavLink to="/tools" activeClassName="active">Category</NavLink>
+</li>
+<li>
+  <NavLink to="/about" activeClassName="active">About Us</NavLink>
+</li>
+<li>
+  <NavLink to="/cart" activeClassName="active">
+    <IoCartOutline className="w-10 h-5" />
+  </NavLink>
+</li>
     </>
   );
   return (
