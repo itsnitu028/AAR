@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "HSS Round Tool Bits",
+    "category": "HSS Tool Bit",
+    "price": 70,
+    "image": "/hss-round-tool-bits-500x500.webp",
+    "title": "High Speed Steel",
+    "description": "Packaging type : Box"
+  },
+  {
+    "id": 2,
+    "name": "Screwdriver Set",
+    "category": "Hand Tool",
+    "price": 15.49,
+    "image": "/Banner1.png",
+    "title": "Precision Screwdriver Set",
+    "description": "A complete set of screwdrivers for home and professional use."
+  },
+  {
+    "id": 3,
+    "name": "Power Drill",
+    "category": "Power Tool",
+    "price": 79.99,
+    "image": "/Banner1.png",
+    "title": "High-Powered Electric Drill",
+    "description": "A versatile drill with multiple speed settings and a strong motor."
+  },
+  {
+    "id": 4,
+    "name": "Wrench Set",
+    "category": "Hand Tool",
+    "price": 25.99,
+    "image": "/Banner1.png",
+    "title": "Multi-Size Wrench Set",
+    "description": "Durable wrenches in different sizes for various tasks."
+  },
+  {
+    "id": 5,
+    "name": "Circular Saw",
+    "category": "Power Tool",
+    "price": 120.00,
+    "image": "/Banner1.png",
+    "title": "Heavy-Duty Circular Saw",
+    "description": "A powerful circular saw for cutting wood and metal."
+  },
+  {
+    "id": 6,
+    "name": "Tape Measure",
+    "category": "Measuring Tool",
+    "price": 7.99,
+    "image": "/Banner1.png",
+    "title": "Retractable Tape Measure",
+    "description": "A flexible and durable tape measure with both metric and imperial markings."
+  },
+  {
+    "id": 7,
+    "name": "Angle Grinder",
+    "category": "Power Tool",
+    "price": 89.99,
+    "image": "/Banner1.png",
+    "title": "Electric Angle Grinder",
+    "description": "A high-speed grinder for cutting and polishing metal and stone surfaces."
+  },
+  {
+    "id": 8,
+    "name": "Adjustable Spanner",
+    "category": "Hand Tool",
+    "price": 12.49,
+    "image": "/Banner1.png",
+    "title": "Heavy-Duty Adjustable Spanner",
+    "description": "A strong and rust-resistant spanner for gripping nuts and bolts of various sizes."
+  },
+  {
+    "id": 9,
+    "name": "Claw Hammer",
+    "category": "Hand Tool",
+    "price": 14.99,
+    "image": "/Banner1.png",
+    "title": "Premium Claw Hammer",
+    "description": "A dual-purpose hammer with a flat striking face and a claw for nail removal."
+  },
+  {
+    "id": 10,
+    "name": "Cordless Impact Driver",
+    "category": "Power Tool",
+    "price": 129.99,
+    "image": "/Banner1.png",
+    "title": "Rechargeable Impact Driver",
+    "description": "A powerful and compact tool for driving screws and bolts with ease."
+  },
+  {
+    "id": 11,
+    "name": "Laser Level",
+    "category": "Measuring Tool",
+    "price": 49.99,
+    "image": "/Banner1.png",
+    "title": "Precision Laser Level",
+    "description": "Projects a straight and level laser beam for perfect alignment."
+  },
+  {
+    "id": 12,
+    "name": "Wood Chisel Set",
+    "category": "Carpentry Tool",
+    "price": 34.99,
+    "image": "/Banner1.png",
+    "title": "Professional Wood Chisel Set",
+    "description": "A set of sharp chisels for carving and shaping wood with precision."
+  },
+  {
+    "id": 13,
+    "name": "Pipe Wrench",
+    "category": "Plumbing Tool",
+    "price": 22.99,
+    "image": "/Banner1.png",
+    "title": "Heavy-Duty Pipe Wrench",
+    "description": "An adjustable wrench designed to grip and turn pipes securely."
+  },
+  {
+    "id": 14,
+    "name": "Hacksaw",
+    "category": "Hand Tool",
+    "price": 18.99,
+    "image": "/Banner1.png",
+    "title": "High-Quality Hacksaw",
+    "description": "A durable saw with a sharp blade for cutting metal and plastic materials."
+  },
+  {
+    "id": 15,
+    "name": "Workbench Vice",
+    "category": "Workshop Tool",
+    "price": 55.99,
+    "image": "/Banner1.png",
+    "title": "Heavy-Duty Workbench Vice",
+    "description": "A sturdy vice to hold workpieces securely for cutting, drilling, or assembling."
+  },
+  {
+    "id": 16,
+    "name": "Electric Sander",
+    "category": "Power Tool",
+    "price": 64.99,
+    "image": "/Banner1.png",
+    "title": "High-Speed Electric Sander",
+    "description": "An efficient sander for smoothing and finishing wood surfaces."
+  },
+  {
+    "id": 17,
+    "name": "Cordless Jigsaw",
+    "category": "Power Tool",
+    "price": 119.99,
+    "image": "/Banner1.png",
+    "title": "Battery-Powered Jigsaw",
+    "description": "A lightweight and versatile jigsaw for cutting curves and straight lines in wood and metal."
+  },
+  {
+    "id": 18,
+    "name": "Stud Finder",
+    "category": "Measuring Tool",
+    "price": 27.99,
+    "image": "/Banner1.png",
+    "title": "Electronic Stud Finder",
+    "description": "Quickly detects studs behind walls to ensure secure mounting."
+  },
+  {
+    "id": 19,
+    "name": "Plunger",
+    "category": "Plumbing Tool",
+    "price": 9.99,
+    "image": "/Banner1.png",
+    "title": "Heavy-Duty Toilet Plunger",
+    "description": "A strong and flexible plunger for unclogging toilets and drains."
+  },
+  {
+    "id": 20,
+    "name": "Digital Caliper",
+    "category": "Measuring Tool",
+    "price": 45.99,
+    "image": "/Banner1.png",
+    "title": "Precision Digital Caliper",
+    "description": "A digital measuring tool with an LCD display for accurate measurements."
+  }
+]
